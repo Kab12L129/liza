@@ -1,0 +1,7 @@
+body{background-color: aqua;}
+.one{width: 450px; height: 50px; background-color: blue; 
+    margin: 25px;padding: 15px; text-align: center;}
+button{background-color: rgb(253, 240, 48); 
+    width: 150px;height: 50px; }
+.two{width: 450px; height: 50px; background-color: rgb(119, 170, 212); 
+    margin: 25px;padding: 15px; text-align: center;}
